@@ -1,0 +1,77 @@
+palavra, dica
+Pai, parente
+Pao, comida
+Parque,local
+Passarinho,animal
+Peixe,animal
+Pijama, vestimenta
+Rato, animal
+Umbigo, parte do corpo
+Acender, apagar
+Afilhado, parente
+Ardiloso, pessoa esperta
+Aspero, textura
+Assombracao, mal
+Asterisco, caractere
+Basquete, esporte
+Caminho, local
+Champanhe, bebida
+Chiclete, comida
+Chuveiro, objeto
+Coelho, animal
+Convivencia, frequencia
+Coracao, parte do corpo
+Desalmado, alma
+Eloquente, pessoa convincente
+Esfirra, comida
+Esquerdo, direcao
+Excecao, exclusivo
+Fugaz, rapido
+Gororoba, comida
+Heterossexual, opcao
+Horrorizado, pessoa assustada
+Impacto, mudanca
+Independencia, dinheiro
+Modernidade, periodo
+Oftalmologista, profissao
+Otorrinolaringologista, profisssao
+Paralelepipedo, forma
+Pororoca, estrondo
+Prognostico, prognose
+Quarentena, pandemia
+Quimera, mitologia
+Refeicao, comida
+Reportagem, conteudo
+Sino, objeto
+Taciturno, tomado pela tristeza
+Visceral, viceras
+Afobado, pessoa desesperada
+Amendoim, comida
+Banheiro, local
+Caatinga, bioma
+Cachorro, animal
+Campeonato, competicao
+Capricornio, signo
+Catapora, doenca
+Corrupcao, governo
+Crepusculo, periodo
+Empenhado, pessoa esforcada
+Esparadrapo, curativo
+Forca, jogo
+Galaxia, universo
+Historia, materia
+Magenta, cor
+Manjericao, comida
+Menta, comida
+Moeda, dinheiro
+Oracao, reza
+Pacoca, comida
+Palavra, palavra
+Pedreiro, profissao
+Pneumonia, doenca
+Pulmao, parte do corpo
+Rotatoria, direcao
+Serenata, tipo de cancao
+Transeunte, passageiro
+Trilogia, sequencia
+Xicara, objeto
